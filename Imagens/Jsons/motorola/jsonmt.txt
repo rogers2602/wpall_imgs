@@ -1,0 +1,107 @@
+[
+{
+ "Nome":"motorola_21",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1oODDsbbMTeAvWijQCtG9p0ol2HrNuwW5",
+ "link":"https://docs.google.com/uc?export=donwload&id=1q6JnmWFVA4Fe8039wuD2Wsjs6wTXGPal1pEIZdeNe6_4grtKMZ1usQo9kZytm5ZMX"
+ },
+{
+ "Nome":"motorola_20",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1DjAePtN0pazJvrUT8XVreVm5en94Z2IQ",
+ "link":"https://docs.google.com/uc?export=donwload&id=1eBqLrwz0SfiN5qhtCKjz3IkGzdNXTGzI"
+ },
+{
+ "Nome":"motorola_19",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1w6UdVNRjrgeqkFx_ZUecDBdyUGLg3wrA",
+ "link":"https://docs.google.com/uc?export=donwload&id=1FfWwQgGoamYYZnnTLxXRAC_oPuRpg92K"
+ },
+{
+ "Nome":"motorola_18",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=10O2bKYJTQ1Gq232JP-dyaS8dlxvfxalt",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Qp6xvZkMSjcCUFmznYsSlGjH4wRV6kr6"
+ },
+{
+ "Nome":"motorola_17",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1GeR_0t0-jaWaLBL015bQcsIfBlHkyN0F",
+ "link":"https://docs.google.com/uc?export=donwload&id=1_sbiptQmzJ-AfOB2lwizmzgO6RhlWB-O"
+ },
+{
+ "Nome":"motorola_16",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1ehwhygxpEkN8y3eobRSa5ZfsQtWZLCSZ",
+ "link":"https://docs.google.com/uc?export=donwload&id=1FBqNlU4sYinSbmMFP1_TwkSnLmKR_DgF"
+ },
+{
+ "Nome":"motorola_15",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=15ACMdr8e21crPMOmBTsC-3ot9V8J8MbO",
+ "link":"https://docs.google.com/uc?export=donwload&id=1haTYL7rwKBwago3htD7MtN2bcg2PLTVt"
+ },
+{
+ "Nome":"motorola_14",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1WIOEcJBfxbPWyk48cUHFRZXJhtL8EVrM",
+ "link":"https://docs.google.com/uc?export=donwload&id=1SiispsYLZlNFYFPTZKFx8O35epIOkmq8"
+ },
+{
+ "Nome":"motorola_13",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1LRzPawPFhf6xXxmG69JbfTMXbk47vAcb",
+ "link":"https://docs.google.com/uc?export=donwload&id=16ptBOYLa9tUp7696L4qa3i27v2_NiAt7"
+ },
+{
+ "Nome":"motorola_12",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1PXxiE9P2JAUDyJbWE6VkzIVR_urTkrPG",
+ "link":"https://docs.google.com/uc?export=donwload&id=1gJFAx14MTpTgnQrNd8uEWaqvZBkQP0Hh"
+ },
+{
+ "Nome":"motorola_11",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1-kRARimO4LkqhlhbfsJ7tEgX9xC7T3z9",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Khzx8xb30QcUk5XzBV0VN1syZ2A0E5nI"
+ },
+{
+ "Nome":"motorola_10",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1TBTm9N-A_mKVQd4Td2MeeYjjwEhUB5Cy",
+ "link":"https://docs.google.com/uc?export=donwload&id=1RXe-Z6z1gG-rh6cOaJNDWM379_v0yUqT"
+ },
+{
+ "Nome":"motorola_9",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=17PBlSsPBUeyk25JlfhT4Ac4hqCtKmUWx",
+ "link":"https://docs.google.com/uc?export=donwload&id=17585aoB4kb9WKOOArGI1CrViskpPsMLW"
+ },
+{
+ "Nome":"motorola_8",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1kvPD6xOmkoLsRoX_Da9BXmSSYogfnodH",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Su7vRTRAR-u6mmewHCz14DEJn-BEME4Y"
+ },
+{
+ "Nome":"motorola_7",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1tMIVB99kcVyxm38qMsqJ6d7DyvsiEcdj",
+ "link":"https://docs.google.com/uc?export=donwload&id=1fZgfEVrhkFHfGNq3MDUZLYGV0I3PvjEp"
+ },
+{
+ "Nome":"motorola_6",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=160muWzj5x0tOngUSckURPFXaSOfoMrJF",
+ "link":"https://docs.google.com/uc?export=donwload&id=1mI79LTm0FIH13hEZ4HdTjpNTzNabRs5L"
+ },
+{
+ "Nome":"motorola_5",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1f8BdpGdfxM8VcgBQnnQV8Cvi9iKgX-m2",
+ "link":"https://docs.google.com/uc?export=donwload&id=1z5RcZd1FN_eCfXof7Z7yieEdfPsZbSJh"
+ },
+{
+ "Nome":"motorola_4",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=10C_-UNB9XRylWEFHkbH0FhjdXwWA1QxQ",
+ "link":"https://docs.google.com/uc?export=donwload&id=115oYtiwEAgYq2eT4m_y0ybVjpigfOynT"
+ },
+{
+ "Nome":"motorola_3",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1CQ2HjCAe92LC1iyD-Kay7B0LRgVj0Jz4",
+ "link":"https://docs.google.com/uc?export=donwload&id=1FLXmsNkK4L_hIlV83E5D0OMusA4ximYg"
+ },
+{
+ "Nome":"motorola_2",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1PMOEA8dNuFXLYHsoZOoo1skIdaWeTCe7",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Pxe4F5D5Hs3KNG8O5nDYT31XE0W8K0lc"
+ },
+{
+ "Nome":"motorola_1",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1q6JnmWFVA4Fe8039wuD2Wsjs6wTXGPal",
+ "link":"https://docs.google.com/uc?export=donwload&id=1nPDy23jkQNk5wVKYXYzuQmv61mMz7Myi"
+ }
+]

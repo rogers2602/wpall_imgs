@@ -1,0 +1,227 @@
+[
+{
+ "Nome":"htc_45",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1IDywA55uHZWObW8AbCvby9wCLKw0K8SY",
+ "link":"https://docs.google.com/uc?export=donwload&id=1oDiH6kq1heytbEqOnfO4LLKHrY5e1AHl"
+ },
+{
+ "Nome":"htc_44",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1cglW6IXGdY_Mu9LMCRgKAt1OgRRvZ2nb",
+ "link":"https://docs.google.com/uc?export=donwload&id=1SNZi7WiX9C37dwdWHp8hqgNJj1rZoFGG"
+ },
+{
+ "Nome":"htc_43",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1icKsDsyv4XirYNyWQzkWJwVrVMGRq2gM",
+ "link":"https://docs.google.com/uc?export=donwload&id=1IdKBmtbGHcHAKfsY-hD9VTxLmPNvWJLp"
+ },
+{
+ "Nome":"htc_42",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=15SBOqOKY01gUPrHtcpF7FEZJR-OfaXcb",
+ "link":"https://docs.google.com/uc?export=donwload&id=10pHqoNeRj3zZ8pGtLjUGyH7ygtSfDNnZ"
+ },
+{
+ "Nome":"htc_41",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1FgX_5ed-Yf1rC2RcPFpx4Vf9mdAbBGCP",
+ "link":"https://docs.google.com/uc?export=donwload&id=1HOsvFrcDJJStSLGKflxAXJsEURieDCaO"
+ },
+{
+ "Nome":"htc_40",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1a099J1GQMYKQixSXonbHqSg-L4kFT8Xj",
+ "link":"https://docs.google.com/uc?export=donwload&id=17SbaxJ4hr14sEJvxP6pIRPlKV0l6-OKR"
+ },
+{
+ "Nome":"htc_39",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1OlCjpqGthIf4gO9ralEVsCoqOZWyzXZm",
+ "link":"https://docs.google.com/uc?export=donwload&id=1NLdha7PkCiUubNPsqWwUiTTF8z5mGA5S"
+ },
+{
+ "Nome":"htc_38",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1CXSpWXTecpXOth1PAOfu08SYeiDlEHue",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Nr2ufoVlGl9cnmZ2tqnybvG1B_N2XwNu"
+ },
+{
+ "Nome":"htc_37",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1yr1xus8attXBJI9QxX4hsUclo1F5Y-5q",
+ "link":"https://docs.google.com/uc?export=donwload&id=1ytERL5qtUH6qKn47055DVnTMxUA4WaRS"
+ },
+{
+ "Nome":"htc_36",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1FP9_D0XGmFxAV2oQS10r-V3AyMCfesRk",
+ "link":"https://docs.google.com/uc?export=donwload&id=1UT2tZNzrl0kHUhtZoxhPuCJStCS6ddfz"
+ },
+{
+ "Nome":"htc_35",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1oZC_Wxt1mxqaVveN3UPt6KVL_JqBlFPs",
+ "link":"https://docs.google.com/uc?export=donwload&id=14GESApy_qvMRzXZKTT0TpYO_rJXL5ut6"
+ },
+{
+ "Nome":"htc_34",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1xvCIEn9VVajoOVZyjySlEylyKeZp028a",
+ "link":"https://docs.google.com/uc?export=donwload&id=1UxFbaH-VuTuoTyBzffYar8l9WfygKqeO"
+ },
+{
+ "Nome":"htc_33",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=10VdKoYgpcybSxZQ3knegh_L47k5tDnjN",
+ "link":"https://docs.google.com/uc?export=donwload&id=17UgsM-aPATVwbhyEAaZDTiajHD9wV6oc"
+ },
+{
+ "Nome":"htc_32",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1_V_svu5m8cSJDAsxlpmgLI364iKgf9MG",
+ "link":"https://docs.google.com/uc?export=donwload&id=1oFIH5s-V8caFjRQDKDqLmxfapavkP7Cs"
+ },
+{
+ "Nome":"htc_31",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1B5iNQp20ZLNcZHnBvgyOKeoHQxlziwg5",
+ "link":"https://docs.google.com/uc?export=donwload&id=1vFhzzPej8s8FkjYlNCAWkRuUu7265li7"
+ },
+{
+ "Nome":"htc_30",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1iSgMaQhMZri8gFkPSHw-hBJM6SpS3qOU",
+ "link":"https://docs.google.com/uc?export=donwload&id=119tkbuEYOssY-ShPb5mEh6i5VfXhEv-R"
+ },
+{
+ "Nome":"htc_29",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1S8iDA8Y0Loom-TQCJCBv12vy7zyf7sXU",
+ "link":"https://docs.google.com/uc?export=donwload&id=1I6QDy3UT4gjPr8YP_ahQ4NjmcuRlXmQB"
+ },
+{
+ "Nome":"htc_28",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1qnwJOCvG4hJhDEQvMdK_70N6D7AdE-Du",
+ "link":"https://docs.google.com/uc?export=donwload&id=1h0zitS3yTu1osLNmATZX6dYNtplDZvdg"
+ },
+{
+ "Nome":"htc_27",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1UEIpzvhMIeeL9Dn3SgK0XulVJ-mJcNaL",
+ "link":"https://docs.google.com/uc?export=donwload&id=1fHgdLle7ZE9u5Ye1Q9C9ebAETEwfH9bZ"
+ },
+{
+ "Nome":"htc_26",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1gD0K8VNmiVMFtqmZ2PLHatNbURhPIRFN",
+ "link":"https://docs.google.com/uc?export=donwload&id=1xw7mGVfW0nZtQUCs7D9QdF25oBoRZizE"
+ },
+{
+ "Nome":"htc_25",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1Z04cVvxH1Rt9III-CkgxGqiD_-Z9Yrlo",
+ "link":"https://docs.google.com/uc?export=donwload&id=1nYuruk-sNRE-sFtTulSvZOHSNCbCW-Ro"
+ },
+{
+ "Nome":"htc_24",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1V5EukMSmR0LT7aRWFZdyKPI4f3Mk-van",
+ "link":"https://docs.google.com/uc?export=donwload&id=1YKbe4_PeoIKCjWw-iHFS81wnY3gTnSCx"
+ },
+{
+ "Nome":"htc_23",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1HXkONkpIKFpqJbiawAD_4wappk_M9um0",
+ "link":"https://docs.google.com/uc?export=donwload&id=1wyVfah1G4iRs9TjOxd1L59DeitFyvQu4"
+ },
+{
+ "Nome":"htc_22",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=12EhXkgibkmDNYno30vQ7FquoHjFNakhP",
+ "link":"https://docs.google.com/uc?export=donwload&id=1C4eDBtWKUUg-q_blb4daLhiWHOmjQ6kV"
+ },
+{
+ "Nome":"htc_21",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1Gpmz3iAUDcWrJvikYcrWfUMIAWf9RDAx",
+ "link":"https://docs.google.com/uc?export=donwload&id=1CuI1wtKQS3Joy55Fo1Ko7BEF3BucNm7O"
+ },
+{
+ "Nome":"htc_20",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1VvY_G-IZIofjdLQ-V5fQ3pjNa7JjOGhM",
+ "link":"https://docs.google.com/uc?export=donwload&id=1EU0XsbwdMFNVdq8nCi1XO-iTJSjJS1B6"
+ },
+{
+ "Nome":"htc_19",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1wXjFB-vVx_LHeeKoMpuWUKMUCvkLxYTM",
+ "link":"https://docs.google.com/uc?export=donwload&id=1y4vHKiRRSmWwEoC9x7kv4t6G6_ZvnAa9"
+ },
+{
+ "Nome":"htc_18",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=11ahW_z6LLuAqUA_khYEkyv00qkU790LD",
+ "link":"https://docs.google.com/uc?export=donwload&id=17Q22TxJvNUTK1esaRFKrEfq8Sd-Bcrqw"
+ },
+{
+ "Nome":"htc_17",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1bdYpDDXqk-rF2IQtFVk_gyW2oZcl9Xaf",
+ "link":"https://docs.google.com/uc?export=donwload&id=1TSXE0OKJbrWb8wzH_97ePLcpfHVeSk8w"
+ },
+{
+ "Nome":"htc_16",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1xQXcoSQOeNr8df7qn2yNpBcX7VbI4fYT",
+ "link":"https://docs.google.com/uc?export=donwload&id=1PhAkcYCV9B44Ct4TSvtY57GbkjpiB_kG"
+ },
+{
+ "Nome":"htc_15",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1_eEkVa1_Sypk8mTqPPqHiTjdeoZ4bDfI",
+ "link":"https://docs.google.com/uc?export=donwload&id=1HuTCIfUbA0WYv4e8jb4Ogw3MPsJrUx6T"
+ },
+{
+ "Nome":"htc_14",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1-idHQnabzalp0GPUF7XT3IyMylyYioyc",
+ "link":"https://docs.google.com/uc?export=donwload&id=1EETDJN74SW96TOhw0sW2wUDZ2ZWEGH0n"
+ },
+{
+ "Nome":"htc_13",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1-xytuPkLCKphlrXkCwDGrykIHRo1pOxb",
+ "link":"https://docs.google.com/uc?export=donwload&id=1I_3rP5zQVHj5u8eqeY6SBEQV31jv2yrh"
+ },
+{
+ "Nome":"htc_12",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1xQqit_vbPuUjuNGNfOJ12J1uU29qP7qq",
+ "link":"https://docs.google.com/uc?export=donwload&id=1frkoQJHSh_Y1WlzEnlOTt1AV4nUvU0wg"
+ },
+{
+ "Nome":"htc_11",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1KYUnJznM2Iqy0boU-1Nfsb916GJ1gdRQ",
+ "link":"https://docs.google.com/uc?export=donwload&id=1_9IPsncVDuxlenzY6GiXzSmOTTR52S-1"
+ },
+{
+ "Nome":"htc_10",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1h8ucA7mlXELBE4fVw04j-dVxJhwGfMmd",
+ "link":"https://docs.google.com/uc?export=donwload&id=1ndcM1T1w5zssfqqSH5uX5w5wH-T3CCE7"
+ },
+{
+ "Nome":"htc_9",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=14ZnFJ6a0Rylr_pvcQo-njO-s5FjVdNYI",
+ "link":"https://docs.google.com/uc?export=donwload&id=1xrGFMx4r7zeMVLtJxcCTOmBjcSSGmwCH"
+ },
+{
+ "Nome":"htc_8",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=16gLz2uOJUDS1Q5J8w23K8891MIixg-qO",
+ "link":"https://docs.google.com/uc?export=donwload&id=1zYEB1dEosVqjYBpt8UQrDsHdCbtiwzfR"
+ },
+{
+ "Nome":"htc_7",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=13fO74ldJLrokjTpfc_mxPFjkKZZqT0E_",
+ "link":"https://docs.google.com/uc?export=donwload&id=1cVpBhEgjsnjjOmivxtJYvcABTJdVR6IP"
+ },
+{
+ "Nome":"htc_6",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=19QCuCnh56BCxDLQ2wJi3i9C7mnksbLI8",
+ "link":"https://docs.google.com/uc?export=donwload&id=1spcSZ7QkNNv4ndb-XKeU3dG2o87M8VJS"
+ },
+{
+ "Nome":"htc_5",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=15rvBVd04XD74m6d_x7uK9s7xfrrDn-e5",
+ "link":"https://docs.google.com/uc?export=donwload&id=1i2Xg8yaIrNpK0kiILSxjkeczK6guW3Xn"
+ },
+{
+ "Nome":"htc_4",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1FbOdjs9u2B85frZriKkeLYdvjo4edoZ1",
+ "link":"https://docs.google.com/uc?export=donwload&id=1RMDZG8Osgv9IznS4bzjCnSaytKU1rxkE"
+ },
+{
+ "Nome":"htc_3",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1c8pA2MqsJs2zZBcIBLJphLMHkqQU51Q0",
+ "link":"https://docs.google.com/uc?export=donwload&id=1mSFd1SQeSf-lzCa1r8NfZq2L7vWWowhV"
+ },
+{
+ "Nome":"htc_2",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1y6BZS6P5WWhZmar8qZjL-uvy6Cj2Hkkd",
+ "link":"https://docs.google.com/uc?export=donwload&id=1d9VoXFWO9ZytWMgRCHYA8elRsqAhehLX"
+ },
+{
+ "Nome":"htc_1",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1zxdn3kQwue7VO0EMp-XVEhCoBIhbLIpT",
+ "link":"https://docs.google.com/uc?export=donwload&id=1VCFXcWuZfQn2cZZYV3UpNL1EzQfLu1XB"
+ }
+]

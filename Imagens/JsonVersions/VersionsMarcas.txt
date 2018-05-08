@@ -1,0 +1,57 @@
+[
+{
+ "Vers" : "1",
+ "Marca" : "Lenovo",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "LG",
+ "Notas" : ""
+},
+{
+ "Vers" : "2",
+ "Marca" : "Motorola",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "One Plus",
+ "Notas" : ""
+},
+{
+ "Vers" : "2",
+ "Marca" : "Samsung",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Sony",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Xiaomi",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "ZTE",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Google",
+ "Notas" : ""
+},
+{
+ "Vers" : "2",
+ "Marca" : "Huawei",
+ "Notas" : ""
+},
+{
+ "Vers" : "2",
+ "Marca" : "HTC",
+ "Notas" : ""
+}
+]

@@ -1,0 +1,297 @@
+[
+{
+ "Nome":"zte_59",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=100tQPqZ9aRapvaQ_MzopyZCvlMB7rbax",
+ "link":"https://docs.google.com/uc?export=donwload&id=1_AHW2KTztwI0UvhDTJ7YnpFpZdAXdVEi"
+ },
+{
+ "Nome":"zte_58",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1Z1WMZYxpdWExubAEo5aPlfrye8uAfynU",
+ "link":"https://docs.google.com/uc?export=donwload&id=1lkCYXUJeWGFmmzH1Vj5ZN1IQt-stZ8hA"
+ },
+{
+ "Nome":"zte_57",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1bFDeKVgPE0O6nkhzc6FtPafm61Giu5Mn",
+ "link":"https://docs.google.com/uc?export=donwload&id=120tIaBkXjvLdSfdiuGHsYdwLKc9pvvYd"
+ },
+{
+ "Nome":"zte_56",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1exgYTAO16ivYZJ6cNZ_XZfkA7IJIx_y7",
+ "link":"https://docs.google.com/uc?export=donwload&id=1_3WBrju2i2ehIIWAE6A7CQFMJ-2n9yPQ"
+ },
+{
+ "Nome":"zte_55",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1AyNM3RhYuvV-5JGvqZs6YWwGGEdk5J34",
+ "link":"https://docs.google.com/uc?export=donwload&id=16wcwdSsLTmBGjwHpkXZ0a0IVvbX2cWv_"
+ },
+{
+ "Nome":"zte_54",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1Npgy0h7oO1dqdJm6lCuHylqUaZbZ3PAI",
+ "link":"https://docs.google.com/uc?export=donwload&id=17qBE2SvM8fHIGDJ1f-N0bAo1cuTZgWUN"
+ },
+{
+ "Nome":"zte_53",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1b0EdrCbHKAWOf4c8wfCKspe9XPM7WLNF",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Wm35gE2o0N0qKyjHNRd0G_PZ7f9vAOqM"
+ },
+{
+ "Nome":"zte_52",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1oOVKn-yl-ZfnRz0U1pKKDthvBg8Nw-fp",
+ "link":"https://docs.google.com/uc?export=donwload&id=1a6cnek5SY-HnPSrYxknlIYc5StnuM9Fr"
+ },
+{
+ "Nome":"zte_51",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1M-nieIVQGKhlVQoFtFpvN2n2gIjMM38A",
+ "link":"https://docs.google.com/uc?export=donwload&id=1u2bIzuTjFxk9rvW9E-_iYgxFOaXlUh7e"
+ },
+{
+ "Nome":"zte_50",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1dye84Ap0QIfgobgQJvuUaSFi5u7hZE6U",
+ "link":"https://docs.google.com/uc?export=donwload&id=1OL3mlUl7ezC60GTSDyb7gq3m3wtc49lH"
+ },
+{
+ "Nome":"zte_49",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1v2QOOmy-KZ4C5V5bKLEJkspn1802Qdh9",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Q66umc88dtI4WTKSqp4NZ4e2D8bJaCdw"
+ },
+{
+ "Nome":"zte_48",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=18mT_Oab_gpZyBxHTfG2Tc1A20CFFkpTo",
+ "link":"https://docs.google.com/uc?export=donwload&id=1SuVHGEL56Vy1pRrURG1_4BWHqjOmfDaN"
+ },
+{
+ "Nome":"zte_47",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=11wvqqNZ-9UfsfcvGhJEy9_tuh4nIG1KY",
+ "link":"https://docs.google.com/uc?export=donwload&id=1aNJxUlcd52roabtIO6qoEqZI0VDJ4e1B"
+ },
+{
+ "Nome":"zte_46",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1ChudwKSpwnvVe2YUsQ7a1wz1FTynf5A-",
+ "link":"https://docs.google.com/uc?export=donwload&id=1VkgERAjSE5ySqwppHYda7AlWvWRUXfpK"
+ },
+{
+ "Nome":"zte_45",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1j-Sp5scBN6MoKsDkIBCT54IbvGtXEPig",
+ "link":"https://docs.google.com/uc?export=donwload&id=1k-EusWdtR-o1tgxfB15BVbS16WFrd_c3"
+ },
+{
+ "Nome":"zte_44",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1HVTosrodnUqT_uGolxQADc12CRffujBj",
+ "link":"https://docs.google.com/uc?export=donwload&id=1of9O54HFMqO-13TIKHSjT4Zg4thWQe_5"
+ },
+{
+ "Nome":"zte_43",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1N7GgKqpkxuRe9_fYt2oFzz-UsbMK9G0x",
+ "link":"https://docs.google.com/uc?export=donwload&id=1RtTo8DdAT6cNFN3vCvBKXVlUvV8MMreO"
+ },
+{
+ "Nome":"zte_42",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=19k2A5jxZSp7Pf4vl5wxlzF_o1xhdo9D9",
+ "link":"https://docs.google.com/uc?export=donwload&id=1yUD7Ritwjvu2px5JA2galt7JVBHZi6NZ"
+ },
+{
+ "Nome":"zte_41",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1mh-O6ti7IV9Yl2eVLt03imSvkq6a8OzC",
+ "link":"https://docs.google.com/uc?export=donwload&id=1rcHuqCVzYosorEjHkM-dRQKjkkxCWXv5"
+ },
+{
+ "Nome":"zte_40",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1s5Frgxwga4gACAwJ6fnZxFf8Vo9gk5XY",
+ "link":"https://docs.google.com/uc?export=donwload&id=18jd4moskOfqXt2Oz1v_Mv1t1-XIv5ZTw"
+ },
+{
+ "Nome":"zte_39",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=10w3eYyF1J2t0j9cfHONxzpcN9kdiNQ9g",
+ "link":"https://docs.google.com/uc?export=donwload&id=1UzxR6gS0X9Zr_eY_H8CcGYybw5F0KwOz"
+ },
+{
+ "Nome":"zte_38",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1qM3G7IsMdKNz_zdx8QufEkRXsArpDDfx",
+ "link":"https://docs.google.com/uc?export=donwload&id=1jkYRmxJ5AEwqRN5R5zBBGwgVmLkOJBbD"
+ },
+{
+ "Nome":"zte_37",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1aHTYkKEhFHZSFpaTTFBJij0uGzN6sk9B",
+ "link":"https://docs.google.com/uc?export=donwload&id=1w1tknJcUe0e_ca-kJSlf1s4_wOR-MhlM"
+ },
+{
+ "Nome":"zte_36",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1iXCzrtsVWrTA8SWqdBAs6-POkfthVXMN",
+ "link":"https://docs.google.com/uc?export=donwload&id=1c_NdgVlhrfvf9Y-QrOJg4zF1mzrB6qH_"
+ },
+{
+ "Nome":"zte_35",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1vglqplq_O0ylxorPI4FxONiS9d9_Azyu",
+ "link":"https://docs.google.com/uc?export=donwload&id=1FIelyM3R44JBmFvvC9hly_Veo8KPWlvv"
+ },
+{
+ "Nome":"zte_34",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1RlX8K9O0tMQOwP5N4QPqaIDLW9TVqww1",
+ "link":"https://docs.google.com/uc?export=donwload&id=1kS0JjOH8q2PNS8qUaXWZ8nstiuOYdoSo"
+ },
+{
+ "Nome":"zte_33",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1pgJiAF_ejcABGxBgxNECDfIATEOtchjA",
+ "link":"https://docs.google.com/uc?export=donwload&id=1x7_RrGon1V6QgHw39tRjnuGLREf9Bb-W"
+ },
+{
+ "Nome":"zte_32",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1anT_WhuW3cOvEvwZE-2aFlO_8J_ZfnR-",
+ "link":"https://docs.google.com/uc?export=donwload&id=1fABwHDjEuMBkpzh8aYEvPKDlOoj0g3yK"
+ },
+{
+ "Nome":"zte_31",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1LGY9KJOtp9wQE9TYMn3InH0xHnHO2PuO",
+ "link":"https://docs.google.com/uc?export=donwload&id=1_txs0U3ptB7aHOWEY7M2lpFicdaAoP34"
+ },
+{
+ "Nome":"zte_30",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1qr8rtgmYni66l923GIaCc9i80194T7w9",
+ "link":"https://docs.google.com/uc?export=donwload&id=1bFvKvXs5hrpufAQZRKg4DAtc65ZHs_iq"
+ },
+{
+ "Nome":"zte_29",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1PmBGPehyPpmcpHAHWtp_MAJp-mLAPQ0R",
+ "link":"https://docs.google.com/uc?export=donwload&id=1O-BDtAmTHTrguo5BhWzyFmmg-Tm7lSQ-"
+ },
+{
+ "Nome":"zte_28",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1D0nOcedW1wu_1cf05r6FVZ-ZCXBVTaUO",
+ "link":"https://docs.google.com/uc?export=donwload&id=1ViBUrPI12k1X7GyMuwBYIhu7QDAEDxlN"
+ },
+{
+ "Nome":"zte_27",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1pacBjqqgIo4dmUY-AN8ispQzSHw81r8w",
+ "link":"https://docs.google.com/uc?export=donwload&id=1U8Zv5cdF7W4c2NgSAYJKn-oLJRracANA"
+ },
+{
+ "Nome":"zte_26",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1J1kkXwgOZYSCUChAxWxCXkET_NrbXWO5",
+ "link":"https://docs.google.com/uc?export=donwload&id=1rTA4qarWQuzm0qIi0fN7FZjtKWF79QLS"
+ },
+{
+ "Nome":"zte_25",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1ecM3MIVMTT725Wq2JWicpdkrWAngiWj4",
+ "link":"https://docs.google.com/uc?export=donwload&id=115hPk8dOnPqVLoGOUPlsZN6QuH81EsMg"
+ },
+{
+ "Nome":"zte_24",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1bqcCEws2KB9oM3vgi9gqT0H64ZB9z1AC",
+ "link":"https://docs.google.com/uc?export=donwload&id=1uvzjSTZ-2g1EABlFpCfrQC1y9-daiVh0"
+ },
+{
+ "Nome":"zte_23",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1RG1MG5SwK3T_7-C1XE8cIcoBLmDC4ewh",
+ "link":"https://docs.google.com/uc?export=donwload&id=1mfuf48Jxqi4cgcNF4UAmac8hvallfUcT"
+ },
+{
+ "Nome":"zte_22",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1_8L69iODuIIjqL21UeYX2cjPHsPLSUNr",
+ "link":"https://docs.google.com/uc?export=donwload&id=17PkBhkiF2S_o7Dvy65FDZjjGvKNbvNzE"
+ },
+{
+ "Nome":"zte_21",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1AwrE1yrz_qlVpEswEdAAYVOxoUyw-2Tb",
+ "link":"https://docs.google.com/uc?export=donwload&id=1STNDhDuXcupxQbgGg7T3C6g15YPgttkM"
+ },
+{
+ "Nome":"zte_20",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1j5Zd7mXWUzi0J8rPHyyggKIhFLIgipT9",
+ "link":"https://docs.google.com/uc?export=donwload&id=1rQJp7oTHzn-jraUzKqrF5izXr9ATujkN"
+ },
+{
+ "Nome":"zte_19",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1OH1l3KUqaCaiUbJasUgJXoXJxD0Qvtml",
+ "link":"https://docs.google.com/uc?export=donwload&id=1VDAeajUiQKW4wzKD6XFKDJTvGIIhf3ZL"
+ },
+{
+ "Nome":"zte_18",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1_lORxBwsJdw-fiPYYe9bJJ4bvcl3TnrO",
+ "link":"https://docs.google.com/uc?export=donwload&id=1dy6bNJHZWhlrwubihF_M-FiTu1ejYEFr"
+ },
+{
+ "Nome":"zte_17",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1cB6OfRjuZ_IqN8FhjHfkI6cBHZLehiuq",
+ "link":"https://docs.google.com/uc?export=donwload&id=12mDIAffthw7u1DINlKvUxVjNQkpikf85"
+ },
+{
+ "Nome":"zte_16",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1UY6QEQslFr-h8hkxvrwWQ-ffK55VAmsu",
+ "link":"https://docs.google.com/uc?export=donwload&id=1nzHHU8_6WNGNdoNqsX6lvDrjIOrhDD70"
+ },
+{
+ "Nome":"zte_15",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1Dz7mykXIJkyKo1C2U5tB98QAZWg-G5ab",
+ "link":"https://docs.google.com/uc?export=donwload&id=17Nt7JYpdZwHRMEUqpZnPffX_0BjPqTFC"
+ },
+{
+ "Nome":"zte_14",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=17D3i6uU-YoPUNCcQHZBNH-V97XPpc_KU",
+ "link":"https://docs.google.com/uc?export=donwload&id=10nDV0HTsvU2AykOGEc-4gF1Z8j2j9J7A"
+ },
+{
+ "Nome":"zte_13",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=113wLLSHIP-OAn5yy6tTDKw7LttoKc50C",
+ "link":"https://docs.google.com/uc?export=donwload&id=1zBiauSAEeibgQBwdSELedgrFWYnDv7oH"
+ },
+{
+ "Nome":"zte_12",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1J29ZQM7ROtJ15M6Oia6ag9sjXfKlkJJC",
+ "link":"https://docs.google.com/uc?export=donwload&id=1SWvvhubbW169ybS1pHSQlVncHF6JuAJs"
+ },
+{
+ "Nome":"zte_11",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1sawggkxTH2ya21V6GBINbCzttsP_giHd",
+ "link":"https://docs.google.com/uc?export=donwload&id=1XG_5oxaisIlPSvjK9u-yfIm3O4eeVHcN"
+ },
+{
+ "Nome":"zte_10",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=18_x4U7TfzcDTN2W6SWLnMh646JJm_FES",
+ "link":"https://docs.google.com/uc?export=donwload&id=1iCPMimbzijLTOR75kN3F_FBz0nyNrMX5"
+ },
+{
+ "Nome":"zte_9",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1AvhbjuqViP6QfEUXJ6eynBTHSdY68cBr",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Bbv1JMAIitvLJE5Y1CR9egBovl7OA34O"
+ },
+{
+ "Nome":"zte_8",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1xuwlp5T_AmeEZt-oZzg4UA54NDBvKhqq",
+ "link":"https://docs.google.com/uc?export=donwload&id=1m8jKEMNJG5W-Dpj_RfkVqBauykea0XWT"
+ },
+{
+ "Nome":"zte_7",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1jPiytPTY6QlyDi1FR0t7PeNNMS3cltX1",
+ "link":"https://docs.google.com/uc?export=donwload&id=1hitWrSGPF8Y8NUVfdtY3T5qS-p5lciHX"
+ },
+{
+ "Nome":"zte_6",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1VZwsULDFdzB69gWnu-kfXZmG8e9oDssV",
+ "link":"https://docs.google.com/uc?export=donwload&id=1Q4GjgyAbEYT76oOYwHJt3aHyMXxqsGqj"
+ },
+{
+ "Nome":"zte_5",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1lujZCD1WBPqJNeUc0_w-4EjNCLsUawwK",
+ "link":"https://docs.google.com/uc?export=donwload&id=14i3yFetKaRLDnLX38lD0SM1eePDOs6ne"
+ },
+{
+ "Nome":"zte_4",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1YWOXv1nr8Ks1E6x0GOtKaeeaeMe5i7W8",
+ "link":"https://docs.google.com/uc?export=donwload&id=146M2ufQ-2c0RcOyT_CCTrdOz7XuuBn2a"
+ },
+{
+ "Nome":"zte_3",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1rCkpiBx7NRTu-rQUIMPGVRyAvHpxOsSw",
+ "link":"https://docs.google.com/uc?export=donwload&id=1SmC2smb8c02MBhNDglfAooI9_STqvKLC"
+ },
+{
+ "Nome":"zte_2",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=12dpFJmZx78JAhoAQXfc5zgDGG58LwKWj",
+ "link":"https://docs.google.com/uc?export=donwload&id=1CaE7pJxICmgWN0vn5xBe7Gg2Np6XaMt-"
+ },
+{
+ "Nome":"zte_1",
+ "tumb":"https://docs.google.com/uc?export=donwload&id=1vFgQT1SR8g1B1yEuLlY6geDE5TNQuAS-",
+ "link":"https://docs.google.com/uc?export=donwload&id=1shmE51cf7kN_DNw4L8TUfUvKUGhoXvUa"
+ }
+]
