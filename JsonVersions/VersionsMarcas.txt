@@ -10,7 +10,7 @@
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "1",
  "Marca" : "Motorola",
  "Notas" : ""
 },
@@ -20,7 +20,7 @@
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "1",
  "Marca" : "Samsung",
  "Notas" : ""
 },
@@ -45,13 +45,48 @@
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "1",
  "Marca" : "Huawei",
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "1",
  "Marca" : "HTC",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Natureza",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Fundos",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Outono",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Textura",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Flores",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Espaço",
+ "Notas" : ""
+},
+{
+ "Vers" : "1",
+ "Marca" : "Cidades",
  "Notas" : ""
 }
 ]
