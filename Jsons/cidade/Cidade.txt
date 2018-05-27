@@ -27,7 +27,7 @@
 {
  "Nome":"Cidades55",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/55.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/55.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/55.jpg"
  },
 {
  "Nome":"Cidades54",
@@ -37,22 +37,22 @@
 {
  "Nome":"Cidades53",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/53.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/53.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/53.jpg"
  },
 {
  "Nome":"Cidades52",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/52.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/52.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/52.jpg"
  },
 {
  "Nome":"Cidades51",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/51.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/51.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/51.jpg"
  },
 {
  "Nome":"Cidades50",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/50.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/50.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/50.jpg"
  },
 {
  "Nome":"Cidades49",
@@ -62,72 +62,72 @@
 {
  "Nome":"Cidades48",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/48.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/48.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/48.jpg"
  },
 {
  "Nome":"Cidades47",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/47.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/47.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/47.jpg"
  },
 {
  "Nome":"Cidades46",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/46.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/46.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/46.jpg"
  },
 {
  "Nome":"Cidades45",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/45.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/45.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/45.jpg"
  },
 {
  "Nome":"Cidades44",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/44.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/44.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/44.jpg"
  },
 {
  "Nome":"Cidades43",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/43.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/43.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/43.jpg"
  },
 {
  "Nome":"Cidades42",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/42.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/42.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/42.jpg"
  },
 {
  "Nome":"Cidades41",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/41.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/41.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/41.jpg"
  },
 {
  "Nome":"Cidades40",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/40.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/40.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/40.jpg"
  },
 {
  "Nome":"Cidades39",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/39.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/39.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/39.jpg"
  },
 {
  "Nome":"Cidades38",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/38.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/38.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/38.jpg"
  },
 {
  "Nome":"Cidades37",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/37.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/37.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/37.jpg"
  },
 {
  "Nome":"Cidades36",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/36.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/36.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/36.jpg"
  },
 {
  "Nome":"Cidades35",
  "tumb":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/tumbs/35.jpg",
- "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/35.png"
+ "link":"https://raw.githubusercontent.com/rogers2602/wpall_imgs2/master/Imagens/Cidades/35.jpg"
  },
 {
  "Nome":"Cidades34",
