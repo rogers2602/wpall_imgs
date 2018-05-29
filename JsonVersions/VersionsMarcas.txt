@@ -65,12 +65,12 @@
  "Notas" : ""
 },
 {
- "Vers" : "1",
+ "Vers" : "2",
  "Marca" : "Outono",
  "Notas" : ""
 },
 {
- "Vers" : "1",
+ "Vers" : "2",
  "Marca" : "Textura",
  "Notas" : ""
 },
@@ -80,12 +80,12 @@
  "Notas" : ""
 },
 {
- "Vers" : "1",
+ "Vers" : "2",
  "Marca" : "Espaço",
  "Notas" : ""
 },
 {
- "Vers" : "1",
+ "Vers" : "2",
  "Marca" : "Cidades",
  "Notas" : ""
 }
