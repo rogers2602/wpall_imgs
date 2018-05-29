@@ -60,12 +60,12 @@
  "Notas" : ""
 },
 {
- "Vers" : "3",
+ "Vers" : "1",
  "Marca" : "Fundos",
  "Notas" : ""
 },
 {
- "Vers" : "3",
+ "Vers" : "1",
  "Marca" : "Outono",
  "Notas" : ""
 },
