@@ -3,6 +3,6 @@
  "Titulo" : "Teste de notificação",
  "Texto" : "venha conferir novas imagens adicionadas!",
  "Textodetalhe" : "atualização",
- "Upnum" : "3"
+ "Upnum" : "1"
 }
 ]
