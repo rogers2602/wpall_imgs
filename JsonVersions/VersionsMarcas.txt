@@ -80,13 +80,18 @@
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "3",
  "Marca" : "Espaço",
  "Notas" : ""
 },
 {
  "Vers" : "2",
  "Marca" : "Cidades",
+ "Notas" : ""
+},
+{
+ "Vers" : "2",
+ "Marca" : "Universo Marvel",
  "Notas" : ""
 }
 ]

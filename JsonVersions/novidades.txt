@@ -1,8 +1,8 @@
 [
 {
- "Titulo" : "Novas imagens uauu!",
- "Texto" : "venha conferir novas imagens adicionadas!",
+ "Titulo" : "Duas categorias atualizadas!",
+ "Texto" : "Novos wallpapers adicionados, na sessão espaço e categorias...",
  "Textodetalhe" : "atualização",
- "Upnum" : "1"
+ "Upnum" : "2"
 }
 ]
