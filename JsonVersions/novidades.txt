@@ -1,8 +1,6 @@
-[
-{
+[{
  "Titulo" : "Duas categorias atualizadas!",
  "Texto" : "Novos wallpapers adicionados, na sessão espaço e categorias...",
  "Textodetalhe" : "atualização",
  "Upnum" : "2"
-}
-]
+}]
