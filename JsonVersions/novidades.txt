@@ -1,6 +1,6 @@
 [{
- "Titulo" : "Duas categorias atualizadas!",
- "Texto" : "Novos wallpapers adicionados, na sessão espaço e categorias...",
- "Textodetalhe" : "atualização",
- "Upnum" : "2"
+ "Titulo" : "Duas categorias atualizadas! - CORRIGIDO!",
+ "Texto" : "Novos wallpapers adicionados, na sessão Espaço e Universo Marvel...",
+ "Textodetalhe" : "correção de atualização!",
+ "Upnum" : "3"
 }]
