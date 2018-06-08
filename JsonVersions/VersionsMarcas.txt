@@ -80,7 +80,7 @@
  "Notas" : ""
 },
 {
- "Vers" : "3",
+ "Vers" : "4",
  "Marca" : "Espaço",
  "Notas" : ""
 },
@@ -90,7 +90,7 @@
  "Notas" : ""
 },
 {
- "Vers" : "2",
+ "Vers" : "3",
  "Marca" : "Universo Marvel",
  "Notas" : ""
 }
