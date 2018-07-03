@@ -2,5 +2,6 @@
  "Titulo" : "Duas categorias atualizadas! - CORRIGIDO!",
  "Texto" : "Novos wallpapers adicionados, na sessão Espaço e Universo Marvel...",
  "Textodetalhe" : "correção de atualização!",
- "Upnum" : "3"
+ "Upnum" : "3",
+ "NtActive" : "false"
 }]
